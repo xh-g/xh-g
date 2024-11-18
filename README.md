@@ -4,7 +4,7 @@
 
 Welcome to my homepage!
 
-- 🌱 I’m currently a PHD students in ZheJiang University, China.
+- 🌱 I’m currently a PHD student in ZheJiang University, China.
 - 🔭 I’m currently working on Model decision makeing, Reinforcement Learning, LLM Prompt engineering.
 - 👯 I’m looking to collaborate on ...(not prepared yet)
 - 🤔 I’m looking for help with ...(not prepared yet)
